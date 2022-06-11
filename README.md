@@ -1,2 +1,2 @@
 # JavaProjects
-Currency Converter Program
+Just a random repository of projects throughout my studies
